@@ -5,3 +5,7 @@ langchain-openapi
 langchain-groq
 langchain-core
 langchain-community
+pypdf
+bs4
+lxml
+wikipedia
