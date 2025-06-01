@@ -9,3 +9,4 @@ pypdf
 bs4
 lxml
 wikipedia
+langchain_huggingface
