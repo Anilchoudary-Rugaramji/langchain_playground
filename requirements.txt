@@ -12,3 +12,5 @@ wikipedia
 langchain_huggingface
 langchain_google_genai
 langchain-pinecone
+faiss-cpu
+
